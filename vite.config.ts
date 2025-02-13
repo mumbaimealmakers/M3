@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/M3',
   plugins: [react()],
   server: {
-    cors: true
+    cors: true,
+    https: true,
   }
 })

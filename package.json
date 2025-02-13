@@ -2,7 +2,7 @@
   "name": "m3",
   "homepage": "https://mumbaimealmakers.in",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
