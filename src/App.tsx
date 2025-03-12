@@ -1,12 +1,10 @@
+
 import './App.css'
+import Services from './Pages/Services'
 
-function App() {
-
-
+const App = () => {
   return (
-    <>
-      <h1>Mumbai Meal Makers.. coming soon...</h1>
-    </>
+    <><Services></Services></>
   )
 }
 

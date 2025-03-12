@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     cors: true,
-    https: true,
+    // https: true,
   }
 })
